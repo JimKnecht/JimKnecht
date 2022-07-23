@@ -7,16 +7,16 @@
 - 📫 How to reach me ... I'll meet you at Mt. Doom, no really I will.
 - ⚡ Fun fact: I have, use and like: Windows, Mac, and Linux...I'm a tech fanboy not a brand fanboy.
 
-I have been into tech since the 80's, Started with a TI99 4A which we returned for a Commodore 64. 
+I have been into tech since the 80's, Started with a Commodore 64. 
 
-Programming languages I use to know but barely remember now: Pearl,  PHP 5, MS Basic, Qbasic
+<!--Programming languages I use to know but barely remember now: Pearl,  PHP 5, MS Basic, Qbasic
 
 Programming languages I use to know and mostly remember now: 6502 Assembly, Visual Basic 5 (pre dot net), Html/CSS
 
 I'm also interested in Microcontrollers such as ESP 32, Raspberry Pi Pico, Adafruit ItsyBitsy, USBtiny
 
-<!--Some other devices I have or still have:
-- Commodore 128
+Some other devices I have or still have:
+- Commodore 128, TI99 4A
 - IBM 386 w/ Dos, 486dx4 100MHz, various self built pentiums
 - Apple PPC Mac Mini, Intel Mac Mini, Macbook Pro 17 inch
 - Apple iPad original, seveal minis, 2019 iPad Pro, several iPhones
