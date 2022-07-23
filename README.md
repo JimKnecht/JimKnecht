@@ -9,7 +9,7 @@
 
 I have been into tech since the 80's, Started with a TI99 4A which we returned for a Commodore 64. 
 
-Some other devices I have or still have:
+<!--Some other devices I have or still have:
 - Commodore 128
 - IBM 386 w/ Dos, 486dx4 100MHz, various self built pentiums
 - Apple PPC Mac Mini, Intel Mac Mini, Macbook Pro 17 inch
@@ -17,14 +17,8 @@ Some other devices I have or still have:
 - Several models of Raspberry Pi
 - Microcontrollers such as ESP 32, Raspberry Pi Pico, Adafruit ItsyBitsy, USBtiny
 - Atari 2600, Intellivision, NES, SNES, N Wii, N DS, Sega Genesis, PSP, PS 1-4, All XBoxes
+-->
+Programming languages I use to know but barely remember now: Pearl,  PHP 5, MS Basic, Qbasic
 
-Programming languages I use to know but barely remember now: 
-- Pearl
-- PHP 5 
-- MS Basic, Qbasic
-
-Programming languages I use to know and mostly remember now: 
-- 6502 Assembly
-- Visual Basic
-- Html/CSS
+Programming languages I use to know and mostly remember now: 6502 Assembly, Visual Basic 5 (pre dot net), Html/CSS
 
