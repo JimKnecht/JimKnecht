@@ -1,16 +1,30 @@
-### Hi there 👋
+👋 Hi, I’m @JimKnecht
 
-<!--
-**JimKnecht/JimKnecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in creating things
+- 🌱 I’m currently learning NodeJS for work and also Flutter/Dart, Python, C#/Unity for me
+- 🔭 I’m currently working on simple games in Unity
+- 👯 I’m looking to collaborate on anything and nothing all at once. Utils for making games would eb an interesting thing for me to collaborate on.
+- 📫 How to reach me ... I'll meet you at Mt. Doom, no really I will.
+- ⚡ Fun fact: I have, use and like Windows, Mac, and Linux...I'm a tech fanboy not a brand fanboy.
 
-Here are some ideas to get you started:
+I have been into tech since the 80's, Started with a TI99 4A which we returned for a Commodore 64. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some other devices I have or still have:
+- Commodore 128
+- IBM 386 w/ Dos, 486dx4 100MHz, various self built pentiums
+- Apple PPC Mac Mini, Intel Mac Mini, Macbook Pro 17 inch
+- Apple iPad original, seveal minis, 2019 iPad Pro, several iPhones
+- Several models of Raspberry Pi
+- Microcontrollers such as ESP 32, Raspberry Pi Pico, Adafruit ItsyBitsy, USBtiny
+- Atari 2600, Intellivision, NES, SNES, N Wii, N DS, Sega Genesis, PSP, PS 1-4, All XBoxes
+
+Programming languages I use to know but barely remember now: 
+- Pearl
+- PHP 5 
+- MS Basic, Qbasic
+
+Programming languages I use to know and mostly remember now: 
+- 6502 Assembly
+- Visual Basic
+- Html/CSS
+
