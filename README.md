@@ -1,9 +1,9 @@
 👋 Hi, I’m @JimKnecht
 
 - 👀 I’m interested in creating things
-- 🌱 I’m currently learning NodeJS for work and also learning Flutter/Dart, Python, C#/Unity for me
-- 🔭 I’m currently working on simple games in Unity
-- 👯 I’m looking to collaborate on anything but Utils for making games would be an interesting thing for me to collaborate on.
+- 🌱 I’m currently learning NodeJS for work and also learning Flutter/Dart, Python, C#/Unity for me.
+- 🔭 I’m currently working on simple games in Godot, and previously Unity.
+- 👯 I’m looking to collaborate on anything, but Utils for making games would be an interesting thing for me to collaborate on.
 - 📫 How to reach me ... I'll meet you at Mt. Doom, no really I will.
 - ⚡ Fun fact: I have, use and like: Windows, Mac, and Linux...I'm a tech fanboy not a brand fanboy.
 
